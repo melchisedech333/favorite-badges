@@ -14,6 +14,7 @@
 [![Blog](https://img.shields.io/badge/Blog-444444?style=for-the-badge&logo=github&logoColor=white)](https://melchisedech333.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melchisedech-rex-724152235/)
 
+<img src="https://badgen.net/badge/love level/7 of 10/purple" >
 
 ![](https://badgen.net/badge/test1/test2/purple)
 ![](https://badgen.net/badge/color/blue/blue)
@@ -40,6 +41,33 @@
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)
+
+## Header:
+
+EN-US:
+<p align="center">
+    <a href="https://github.com/sponsors/melchisedech333"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" ></a>
+    <br><br>
+    <img src="https://badgen.net/badge/love level/7 of 10/purple" >
+    <img src="https://img.shields.io/github/languages/count/melchisedech333/lex-yacc-experiments?color=%23f34b7d" >
+    <img src="https://img.shields.io/github/languages/top/melchisedech333/lex-yacc-experiments?color=%23f34b7d" >
+    <img src="https://img.shields.io/github/directory-file-count/melchisedech333/lex-yacc-experiments" >
+    <img src="https://img.shields.io/github/repo-size/melchisedech333/lex-yacc-experiments" >
+    <img src="https://img.shields.io/github/license/melchisedech333/lex-yacc-experiments" >
+</p>
+
+PT-BR:
+
+<p align="center">
+    <a href="https://github.com/sponsors/melchisedech333"><img src="https://img.shields.io/badge/patrocinar-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" ></a>
+    <br><br>
+    <img src="https://badgen.net/badge/nível de amor/7 de 10/purple" >
+    <img src="https://img.shields.io/github/languages/count/melchisedech333/lex-yacc-experiments?color=%23f34b7d&label=linguagens" >
+    <img src="https://img.shields.io/github/languages/top/melchisedech333/lex-yacc-experiments?color=%23f34b7d" >
+    <img src="https://img.shields.io/github/directory-file-count/melchisedech333/lex-yacc-experiments?label=arquivos" >
+    <img src="https://img.shields.io/github/repo-size/melchisedech333/lex-yacc-experiments?label=tamanho repo" >
+    <img src="https://img.shields.io/github/license/melchisedech333/lex-yacc-experiments?label=licença" >
+</p>
 
 ## Links:
 
