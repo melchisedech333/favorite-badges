@@ -16,6 +16,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melchisedech-rex-724152235/)
 
 
+![](https://badgen.net/badge/test1/test2/purple)
+![](https://badgen.net/badge/color/blue/blue)
+![](https://badgen.net/badge/color/cyan/cyan)
+![](https://badgen.net/badge/color/green/green)
+![](https://badgen.net/badge/color/yellow/yellow)
+![](https://badgen.net/badge/color/orange/orange)
+![](https://badgen.net/badge/color/red/red)
+![](https://badgen.net/badge/color/pink/pink)
+![](https://badgen.net/badge/color/grey/grey)
+![](https://badgen.net/badge/color/black/black)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -31,15 +42,12 @@
 
 ![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)
 
-![](https://badgen.net/badge/test1/test2/purple)
-![](https://badgen.net/badge/color/blue/blue)
-![](https://badgen.net/badge/color/cyan/cyan)
-![](https://badgen.net/badge/color/green/green)
-![](https://badgen.net/badge/color/yellow/yellow)
-![](https://badgen.net/badge/color/orange/orange)
-![](https://badgen.net/badge/color/red/red)
-![](https://badgen.net/badge/color/pink/pink)
-![](https://badgen.net/badge/color/grey/grey)
-![](https://badgen.net/badge/color/black/black)
+## Links:
+
+- https://badgen.net/
+- https://shields.io/
+- https://dev.to/envoy_/150-badges-for-github-pnk
+- https://github.com/alexandresanlim/Badges4-README.md-Profile
+- https://github.com/Ileriayo/markdown-badges
 
 
