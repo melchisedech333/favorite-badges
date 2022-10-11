@@ -3,7 +3,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/melchisedech333/favorite-badges)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/melchisedech333/favorite-badges)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/melchisedech333/favorite-badges)
-![Lines of code](https://img.shields.io/tokei/lines/github/melchisedech333/favorite-badges)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/melchisedech333/favorite-badges?color=%23f34b7d)
 ![GitHub top language](https://img.shields.io/github/languages/top/melchisedech333/favorite-badges?color=%23f34b7d)
