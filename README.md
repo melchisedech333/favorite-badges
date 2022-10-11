@@ -1,4 +1,4 @@
-# favorite-badges
+# My Favorite Badges :purple_heart:
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/melchisedech333/favorite-badges)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/melchisedech333/favorite-badges)
