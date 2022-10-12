@@ -77,5 +77,6 @@ PT-BR:
 - https://dev.to/envoy_/150-badges-for-github-pnk
 - https://github.com/alexandresanlim/Badges4-README.md-Profile
 - https://github.com/Ileriayo/markdown-badges
+- https://gist.github.com/rxaviers/7360908
 
 
